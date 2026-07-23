@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://wrap-trout-attributes-scholarships.trycloudflare.com/vnc.html
+URL       : https://gps-buildings-municipality-test.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-23 11:50:26
+Created   : 2026-07-23 16:25:54
 =======================================================
