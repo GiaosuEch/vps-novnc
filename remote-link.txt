@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://forge-titled-maiden-functionality.trycloudflare.com/vnc.html
+URL       : https://controlling-boss-truly-iso.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-23 20:58:58
+Created   : 2026-07-24 02:10:31
 =======================================================
